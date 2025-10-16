@@ -70,7 +70,7 @@ main{
 main img{
   height: 400px;
   width: 300px;
-  border-radius: 60%;
+  border-radius: 60%;  
   margin-right:100px;
   box-shadow:2px 3px 9px 10px rgba(255, 109, 24, 0.932);
 }
